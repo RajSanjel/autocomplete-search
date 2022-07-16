@@ -48,7 +48,7 @@
     {
         "name": "Balen Shah",
         "age": 39,
-        "hobbies": ["devloping"],
+        "hobbies": ["developing"],
         "joined": "2020/01/07",
         "userid": 106
 
@@ -67,6 +67,12 @@
         "hobbies": ["research", "writing", "reading", "coding"],
         "joined": "2020/01/07",
         "userid": 108
-
+    },
+    {
+        "name": "Yog Lama",
+        "age": 31,
+        "hobbies": ["reading", "coding"],
+        "joined": "2020/01/07",
+        "userid": 109
     }
 ]
