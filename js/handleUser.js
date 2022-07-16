@@ -28,7 +28,7 @@ const getUsers = async (userAPI) => {
     return data = await data.json();
 }
 const populateData = async () => {
-    data = await getUsers('../api/users.json')
+    data = await getUsers('/api/users.json')
     let usersCollection = document.querySelector(".users")
     for (let i = 0; i < data.length; i++) {
         const user = data[i];
@@ -57,7 +57,7 @@ const populateData = async () => {
 }
 
 const populateSearch = async (searchValue) => {
-    data = await getUsers('../api/users.json')
+    data = await getUsers('/api/users.json')
     let userArr = []
     data.map((username) => {
         data = username.name
@@ -94,7 +94,7 @@ const showResult = (searchResult) => {
 }
 
 let addData = () => {
-    fetch('../api/users.json', {
+    fetch('/api/users.json', {
         method: "POST",
         headers: {
             "content-type": "application/json",
