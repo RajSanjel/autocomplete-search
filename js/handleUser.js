@@ -92,20 +92,4 @@ const showResult = (searchResult) => {
         result.append(displayNoResult)
     }
 }
-
-let addData = () => {
-    fetch('./api/users.json', {
-        method: "POST",
-        headers: {
-            "content-type": "application/json",
-        },
-        body: {
-            "name": "Nato Boram2",
-            "age": 32,
-            "hobbies": ["research1", "writing1", "reading1", "coding1"],
-            "joined": "2020/01/17",
-            "userid": 109
-        }
-    })
-}
 populateData();
