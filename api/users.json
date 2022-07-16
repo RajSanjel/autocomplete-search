@@ -1,0 +1,72 @@
+[{
+        "name": "Nirvaya Thapa",
+        "age": 30,
+        "hobbies": ["dancing", "coding", "reading"],
+        "joined": "2020/01/07",
+        "userid": 100
+    },
+    {
+        "name": "Raj Sanjel",
+        "age": 15,
+        "hobbies": ["singing", "coding", "reading"],
+        "joined": "2020/01/07",
+        "userid": 101
+
+    },
+    {
+        "name": "Will Smith",
+        "age": 18,
+        "hobbies": ["boxing", "sleeping", "gardening"],
+        "joined": "2020/01/07",
+        "userid": 102
+
+    },
+    {
+        "name": "Jack Rai",
+        "age": 20,
+        "hobbies": ["Travelling", "hiking", "treking"],
+        "joined": "2020/01/07",
+        "userid": 103
+
+    },
+    {
+        "name": "Abhishek Thapa",
+        "age": 35,
+        "hobbies": ["gardening", "dancing", "reading"],
+        "joined": "2020/01/07",
+        "userid": 104
+
+    },
+    {
+        "name": "Harka Basnet",
+        "age": 25,
+        "hobbies": ["designing", "roaming"],
+        "joined": "2020/01/07",
+        "userid": 105
+
+    },
+    {
+        "name": "Balen Shah",
+        "age": 39,
+        "hobbies": ["devloping"],
+        "joined": "2020/01/07",
+        "userid": 106
+
+    },
+    {
+        "name": "RONB",
+        "age": 32,
+        "hobbies": ["research"],
+        "joined": "2020/01/07",
+        "userid": 107
+
+    },
+    {
+        "name": "Nato Boram",
+        "age": 31,
+        "hobbies": ["research", "writing", "reading", "coding"],
+        "joined": "2020/01/07",
+        "userid": 108
+
+    }
+]
